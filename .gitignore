@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+data/
+models/
+plots/
+.DS_Store
+*.egg-info/
+.ipynb_checkpoints/
